@@ -4,7 +4,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/killer-abhi/Portfolio.svg)](https://github.com/killer-abhi/Portfolio/issues)
 [![GitHub stars](https://img.shields.io/github/stars/killer-abhi/Portfolio.svg)](https://github.com/killer-abhi/Portfolio/stargazers)
 
-Welcome to my professional portfolio! This repository showcases my skills, projects, and achievements. Feel free to explore the code and projects listed here.
+Welcome to my portofolio project
+Ini merupakan tugas pertemuan ke 7 pemrograman website
+Dosen : Pak Nasrul, S.Pdi., S.Kom., M.Kom.
 
 ## Screenshots
   ![Screenshot](web.png)
