@@ -22,7 +22,7 @@ Welcome to my professional portfolio! This repository showcases my skills, proje
 Connect with me! Feel free to reach out for collaboration, job opportunities, or just to say hello.
 
 - **Email:** wahyuyassin@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/wahyuahmadyassin/](linkedin-link)
+- **LinkedIn:** [www.linkedin.com/in/wahyuahmadyassin](linkedin-link)
 
 ## License
 
